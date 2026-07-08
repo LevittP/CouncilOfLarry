@@ -22,4 +22,4 @@ Discord Invite: https://discord.gg/xaEjQbYacx
 - CSS
 - JavaScript
 
-## JOIN DISCORD!!!
+## TheCouncilOfLarry.XYZ
