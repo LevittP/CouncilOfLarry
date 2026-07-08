@@ -23,3 +23,5 @@ Discord Invite: https://discord.gg/xaEjQbYacx
 - JavaScript
 
 ## [TheCouncilOfLarry.XYZ](http://thecounciloflarry.xyz)
+
+## [JOIN DISCORD](https://discord.gg/xaEjQbYacx)
