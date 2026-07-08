@@ -25,4 +25,4 @@ Discord Invite: https://discord.gg/xaEjQbYacx
 ## [TheCouncilOfLarry.XYZ](http://thecounciloflarry.xyz)
 
 ## [JOIN DISCORD](https://discord.gg/xaEjQbYacx)
-<img width="474" height="473" alt="logo" src="https://github.com/user-attachments/assets/a51d291c-1b51-4554-b334-ccc7c89524cf" />
+<img width="474" height="473" alt="logo" src="https://github.com/user-attachments/assets/a51d291c-1b51-4554-b334-ccc7c89524cf" /> larry
