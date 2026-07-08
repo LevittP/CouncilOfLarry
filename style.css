@@ -109,19 +109,6 @@ nav a {
 }
 
 
-.theme-toggle {
-    position:fixed;
-    top:15px;
-    right:15px;
-    width:35px;
-    height:35px;
-    border-radius:50%;
-    border:1px solid var(--border);
-    background:var(--card);
-    color:var(--text);
-    cursor:pointer;
-}
-
 
 footer {
     text-align:center;
