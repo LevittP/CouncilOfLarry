@@ -22,4 +22,4 @@ Discord Invite: https://discord.gg/xaEjQbYacx
 - CSS
 - JavaScript
 
-## [TheCouncilOfLarry.XYZ](thecounciloflarry.xyz)
+## [TheCouncilOfLarry.XYZ](http://thecounciloflarry.xyz)
